@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c12c6dbfcb0d1119a9458171f1ac4b11.js"
+  "/precache-manifest.c9a90d32eeb12d468e5642e11058847d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "spa-test"});
